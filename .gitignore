@@ -1,0 +1,22 @@
+# Maven build output
+target/
+
+# TestNG reports
+test-output/
+
+# Eclipse-specific files
+.project
+.classpath
+.settings/
+.apt_generated/
+.apt_generated_tests/
+
+# Java compiled class files
+*.class
+
+# Logs
+*.log
+
+# OS-generated files
+.DS_Store
+Thumbs.db
